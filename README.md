@@ -7,7 +7,7 @@
 <a href="https://scholar.google.com/citations?user=hDowoJgAAAAJ&hl=en">Google Scholar</a> ·
 <a href="https://www.researchgate.net/profile/Md-Delowar-Jibon-2">ResearchGate</a> ·
 <a href="mailto:delowarkobir79@gmail.com">Email</a> ·
-<a href="https://YOUR-USERNAME.github.io">Portfolio site</a>
+<a href="https://YOUR-USERNAME.github.io">LinkedIn</a>
 </p>
 
 ### About
